@@ -1,0 +1,221 @@
+%AKARI
+あかり	a k a r i
+あかり	k a r i
+%GREET
+おはよう	o h a y o u
+おはよう	o h a y o:
+こんにちは	k o N n i ch i w a
+はろう	h a r o:
+はろう	h a r o u
+こんばんは	k o N b a N w a
+こんこん	k o N k o N
+おつかれさまです	o ts u k a r e s a m a d e s u
+おつかれ	o ts u k a r e
+おやすみ	o y a s u m i
+おやすみ	o y a s u m i:
+おっは	o q h a:
+おっは	o q h a
+おやす	o y a s u
+おやす	o y a s u:
+おつ	o ts u:
+おつ	o ts u
+ただいま	t a d a i m a
+ただいま	t a d a i m a:
+いってきます	i q t e k i m a s u
+いってきます	i q t e k i m a: s u
+いってくる	i q t e k u r u
+ありがとう	a r i g a t o u
+ありがとう	a r i g a t o:
+さんくす	s a N k u s u
+%MORNING
+おはよう	o h a y o u
+おはよう	o h a y o:
+%GOZAIMASU
+ございます	g o z a i m a s u
+%NIGHT
+おやすみ	o y a s u m i
+おやすみ	o y a s u m i:
+%NASAI
+なさい	n a s a i
+%WEATHER
+てんき	t e N k i
+%YOHOU
+よほう	y o h o u
+%NEWS
+にゅーす	ny u: s u
+%TOPIC
+しゃかい	sh a k a i
+かがく	k a g a k u
+いりょう	i ry o u
+せいじ	s e i j i
+けいざい	k e i z a i
+こくさい	k o k u s a i
+%DOO
+どう	d o u
+どう	d o:
+%AIR
+えあこん	e a k o N
+%FAN
+せんぷうき	s e N p u u k i
+せんぷうき	s e N p u: k i
+%TV
+てれび	t e r e b i
+%LIGHT
+しょうめい	sh o u m e i
+でんき	d e N k i
+%ELECTAP
+でんげんたっぷ	d e N g e N t a q p u
+%BAN
+ばん	b a N
+%RHYTHM
+りずむ	r i z u m u
+%FANVOLUME
+ふうりょう	f u u ry o u
+ふうりょう	f u: ry o:
+%KUBIHURI
+くびふり	k u b i f u r i
+%UP
+あげて	a g e t e
+あげて	a q p u
+%DOWN
+さげて	s a g e t e
+さげて	d a u N
+%ZYOGE
+じょうげ	j o u g e
+じょうげ	j o: g e
+%SAYU
+さゆう	s a y u u
+さゆう	s a y u:
+%TIMER
+たいまー	t a i m a:
+たいまー	t a i m a a
+%BRIGHTER
+あかるく	a k a r u k u
+%DARKER
+くらく	k u r a k u
+%TOWHITE
+しろく	sh i r o k u
+%TOWARM
+あたたかく	a t a t a k a k u
+%NIGHTLIGHT
+じょうやとう	j o u y a t o u
+%ALLLIGHT
+ぜんとう	z e N t o u
+%1
+いち	i q
+いち	i ch i
+%2
+に	n i
+%3
+さん	s a N
+%4
+し	y o N
+し	sh i
+%5
+ご	g o
+%6
+ろく	r o k u
+%7
+なな	n a n a
+なな	sh i ch i
+%8
+はち	h a q
+はち	h a ch i
+%9
+きゅう	ky u u
+きゅう	ky u:
+%10
+じゅう	j u q
+じゅう	j u u
+じゅう	j u:
+%11
+じゅういち	j u u i q
+じゅういち	j u: i q
+じゅういち	j u u i ch i
+じゅういち	j u: i ch i
+%12
+じゅうに	j u u n i
+じゅうに	j u: n i
+%CHANNEL
+ちゃんねる	ch a N n e r u
+%CHAN
+ちゃん	ch a N
+ちゃん	ch a N n e r u
+%INPUTCHANGE
+にゅうりょくきりかえ	ny u u ry o k u k i r i k a e
+にゅうりょくきりかえ	j u: ry o k u k i r i k a e
+%VOLUME
+おんりょう	o N ry o u
+おんりょう	o N ry o:
+おんりょう	b o ry u: m u
+おんりょう	b o ry u u m u
+%MODE
+もおど	m o o d o
+もーど	m o: d o
+%HEAT
+だんぼう	d a N b o u
+だんぼう	d a N b o:
+%COOL
+れいぼう	r e i b o u
+れいぼう	r e: b o:
+%AUTO
+じどう	j i d o u
+%CHANGE
+かえて	k a e t e
+かえて	sh i t e
+%KAETE
+かえて	k a e t e
+%ON
+つけて	ts u k e t e
+つけて	o N
+%OFF
+けして	k e sh i t e
+けして	o f u
+%CLOSE
+とじて	t o j i t e
+とじて	k e sh i t e
+とじて	sh u u ry o u
+とじて	sh u: ry o:
+とじて	sh u u ry o u sh i t e
+とじて	sh u: ry o: sh i t e
+とじて	s u t o q p u
+%OPEN
+ひらいて	h i r a i t e
+ひらいて	h a j i m e t e
+ひらいて	s u t a: t o
+%PLEASE
+おねがい	o n e g a i
+おねがい	sh i t e
+%WAIT
+たいき	t a i k i
+たいき	m a q t e
+%MUSIC
+おんがく	o N g a k u
+%DANCE
+おどって	o d o q t e
+%DISPLAY
+ひょうじ	hy o u j i
+%QUICKMODE
+くいっく	k u i q k u
+%PICTURE
+しゃしん	sh a sh i N
+%VIDEO
+どうが	d o u g a
+%TAKECAMERA
+とって	t o q t e
+%NI
+に	n i
+%HA
+は	w a
+%NO
+の	n o
+%DE
+で	d e
+%WO
+を	o
+%NOISE
+・	sp
+% NS_B
+[s]             silB
+% NS_E
+[/s]            silE

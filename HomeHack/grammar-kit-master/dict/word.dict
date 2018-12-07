@@ -1,0 +1,147 @@
+0	[あかり]	a k a r i
+0	[あかり]	k a r i
+1	[おはよう]	o h a y o u
+1	[おはよう]	o h a y o:
+1	[こんにちは]	k o N n i ch i w a
+1	[はろう]	h a r o:
+1	[はろう]	h a r o u
+1	[こんばんは]	k o N b a N w a
+1	[こんこん]	k o N k o N
+1	[おつかれさまです]	o ts u k a r e s a m a d e s u
+1	[おつかれ]	o ts u k a r e
+1	[おやすみ]	o y a s u m i
+1	[おやすみ]	o y a s u m i:
+1	[おっは]	o q h a:
+1	[おっは]	o q h a
+1	[おやす]	o y a s u
+1	[おやす]	o y a s u:
+1	[おつ]	o ts u:
+1	[おつ]	o ts u
+1	[ただいま]	t a d a i m a
+1	[ただいま]	t a d a i m a:
+1	[いってきます]	i q t e k i m a s u
+1	[いってきます]	i q t e k i m a: s u
+1	[いってくる]	i q t e k u r u
+1	[ありがとう]	a r i g a t o u
+1	[ありがとう]	a r i g a t o:
+1	[さんくす]	s a N k u s u
+2	[おはよう]	o h a y o u
+2	[おはよう]	o h a y o:
+3	[ございます]	g o z a i m a s u
+4	[おやすみ]	o y a s u m i
+4	[おやすみ]	o y a s u m i:
+5	[なさい]	n a s a i
+6	[てんき]	t e N k i
+7	[よほう]	y o h o u
+8	[にゅーす]	ny u: s u
+9	[しゃかい]	sh a k a i
+9	[かがく]	k a g a k u
+9	[いりょう]	i ry o u
+9	[せいじ]	s e i j i
+9	[けいざい]	k e i z a i
+9	[こくさい]	k o k u s a i
+10	[どう]	d o u
+10	[どう]	d o:
+11	[えあこん]	e a k o N
+12	[せんぷうき]	s e N p u u k i
+12	[せんぷうき]	s e N p u: k i
+13	[てれび]	t e r e b i
+14	[しょうめい]	sh o u m e i
+14	[でんき]	d e N k i
+15	[でんげんたっぷ]	d e N g e N t a q p u
+16	[ばん]	b a N
+17	[りずむ]	r i z u m u
+18	[ふうりょう]	f u u ry o u
+18	[ふうりょう]	f u: ry o:
+19	[くびふり]	k u b i f u r i
+20	[あげて]	a g e t e
+20	[あげて]	a q p u
+21	[さげて]	s a g e t e
+21	[さげて]	d a u N
+22	[じょうげ]	j o u g e
+22	[じょうげ]	j o: g e
+23	[さゆう]	s a y u u
+23	[さゆう]	s a y u:
+24	[たいまー]	t a i m a:
+24	[たいまー]	t a i m a a
+25	[あかるく]	a k a r u k u
+26	[くらく]	k u r a k u
+27	[しろく]	sh i r o k u
+28	[あたたかく]	a t a t a k a k u
+29	[じょうやとう]	j o u y a t o u
+30	[ぜんとう]	z e N t o u
+31	[いち]	i q
+31	[いち]	i ch i
+32	[に]	n i
+33	[さん]	s a N
+34	[し]	y o N
+34	[し]	sh i
+35	[ご]	g o
+36	[ろく]	r o k u
+37	[なな]	n a n a
+37	[なな]	sh i ch i
+38	[はち]	h a q
+38	[はち]	h a ch i
+39	[きゅう]	ky u u
+39	[きゅう]	ky u:
+40	[じゅう]	j u q
+40	[じゅう]	j u u
+40	[じゅう]	j u:
+41	[じゅういち]	j u u i q
+41	[じゅういち]	j u: i q
+41	[じゅういち]	j u u i ch i
+41	[じゅういち]	j u: i ch i
+42	[じゅうに]	j u u n i
+42	[じゅうに]	j u: n i
+43	[ちゃんねる]	ch a N n e r u
+44	[ちゃん]	ch a N
+44	[ちゃん]	ch a N n e r u
+45	[にゅうりょくきりかえ]	ny u u ry o k u k i r i k a e
+45	[にゅうりょくきりかえ]	j u: ry o k u k i r i k a e
+46	[おんりょう]	o N ry o u
+46	[おんりょう]	o N ry o:
+46	[おんりょう]	b o ry u: m u
+46	[おんりょう]	b o ry u u m u
+47	[もおど]	m o o d o
+47	[もーど]	m o: d o
+48	[だんぼう]	d a N b o u
+48	[だんぼう]	d a N b o:
+49	[れいぼう]	r e i b o u
+49	[れいぼう]	r e: b o:
+50	[じどう]	j i d o u
+51	[かえて]	k a e t e
+51	[かえて]	sh i t e
+52	[かえて]	k a e t e
+53	[つけて]	ts u k e t e
+53	[つけて]	o N
+54	[けして]	k e sh i t e
+54	[けして]	o f u
+55	[とじて]	t o j i t e
+55	[とじて]	k e sh i t e
+55	[とじて]	sh u u ry o u
+55	[とじて]	sh u: ry o:
+55	[とじて]	sh u u ry o u sh i t e
+55	[とじて]	sh u: ry o: sh i t e
+55	[とじて]	s u t o q p u
+56	[ひらいて]	h i r a i t e
+56	[ひらいて]	h a j i m e t e
+56	[ひらいて]	s u t a: t o
+57	[おねがい]	o n e g a i
+57	[おねがい]	sh i t e
+58	[たいき]	t a i k i
+58	[たいき]	m a q t e
+59	[おんがく]	o N g a k u
+60	[おどって]	o d o q t e
+61	[ひょうじ]	hy o u j i
+62	[くいっく]	k u i q k u
+63	[しゃしん]	sh a sh i N
+64	[どうが]	d o u g a
+65	[とって]	t o q t e
+66	[に]	n i
+67	[は]	w a
+68	[の]	n o
+69	[で]	d e
+70	[を]	o
+71	[・]	sp
+72	[[s]]	silB
+73	[[/s]]	silE
