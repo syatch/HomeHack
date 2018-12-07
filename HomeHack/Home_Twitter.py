@@ -242,9 +242,10 @@ while True:
                             req = twitter.post(send_url,params = params)
                     elif '写真' in  line['text']:
                         
-                        subprocess.run(["python","GR_camera.py","0"])
-                        
-                        
+                        wf = open('./home_data/camera.txt', 'w')
+                        wf.write('0')
+                        wf.close
+                        time.sleep(10)
                         rf = open('./home_data/picture.txt', 'r')
                         path=rf.readline()
                         path = path.replace('\n','')
@@ -260,12 +261,11 @@ while True:
                             req = twitter.post(send_url,params = params)
                         
                     elif '動画' in  line['text']:
-                        
-                        subprocess.run(["python","GR_camera.py","1"])
-                        
-                        rf = open('./home_data/picture.txt', 'r')
-                        path=rf.readline()
-                        rf.close
+                   
+                        wf = open('./home_data/camera.txt', 'w')
+                        wf.write('1')
+                        wf.close
+
                         params = {"status": "{0:%Y年%m月%d日%H:%M:%S}".format(now)+"\n動画を撮りました！"}
                         req = twitter.post(send_url,params = params)
                 
